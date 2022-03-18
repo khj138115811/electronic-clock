@@ -1,0 +1,12 @@
+CCS811_air_quality_sensor.c:12:6:CCS811_init	8	static
+CCS811_air_quality_sensor.c:76:6:CCS811_set_Measure_mode	16	static
+CCS811_air_quality_sensor.c:84:9:CCS811_read_Measure_mode	16	static
+CCS811_air_quality_sensor.c:95:6:CCS811_read_CO2_TVOC	24	static
+CCS811_air_quality_sensor.c:115:9:CCS811_read_Status	16	static
+CCS811_air_quality_sensor.c:129:6:CCS811_check_error	16	static
+CCS811_air_quality_sensor.c:142:6:CCS811_write_baseline	16	static
+CCS811_air_quality_sensor.c:149:6:CCS811_store_baseline	16	static
+CCS811_air_quality_sensor.c:162:6:CCS811_soft_reset	16	static
+CCS811_air_quality_sensor.c:170:6:CCS811_bootloader_start	16	static
+CCS811_air_quality_sensor.c:178:6:CCS811_bootloader_verify	16	static
+CCS811_air_quality_sensor.c:186:9:CCS811_read_hardware_ID	16	static

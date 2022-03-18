@@ -1,0 +1,8 @@
+SHT31_temp_humi_sensor.c:12:6:SHT31_init	8	static
+SHT31_temp_humi_sensor.c:18:9:SHT31_CRC8	24	static
+SHT31_temp_humi_sensor.c:64:6:SHT31_Measure_single	48	static
+SHT31_temp_humi_sensor.c:106:6:SHT31_Measure_period	24	static
+SHT31_temp_humi_sensor.c:118:6:SHT31_read_period	40	static
+SHT31_temp_humi_sensor.c:150:6:SHT31_convert_temp_humi	24	static
+SHT31_temp_humi_sensor.c:162:6:SHT31_read_Status	16	static
+SHT31_temp_humi_sensor.c:177:6:SHT31_soft_reset	16	static

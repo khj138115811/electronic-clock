@@ -1,0 +1,2 @@
+i2c_init.c:5:6:i2c_1_start_send_addr_send_data_stop	24	static
+i2c_init.c:10:6:i2c_1_start_receive_addr_receive_data_stop	24	static

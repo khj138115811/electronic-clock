@@ -1,0 +1,16 @@
+ILI9341_LCD_input_data.c:94:6:HAL_TIM_PeriodElapsedCallback	16	static
+ILI9341_LCD_input_data.c:123:6:HAL_GPIO_EXTI_Callback	16	static
+ILI9341_LCD_input_data.c:151:6:ILI9341_LCD_input_data_init	8	static
+ILI9341_LCD_input_data.c:172:6:ILI9341_current_time_data_init	16	static
+ILI9341_LCD_input_data.c:190:6:ILI9341_convert_received_time_string	32	static
+ILI9341_LCD_input_data.c:237:6:ILI9341_check_0h_11h_or_12h_23h	24	static
+ILI9341_LCD_input_data.c:250:6:ILI9341_check_hour	24	static
+ILI9341_LCD_input_data.c:278:6:ILI9341_check_minutes	24	static
+ILI9341_LCD_input_data.c:284:6:ILI9341_check_day_num	24	static
+ILI9341_LCD_input_data.c:299:6:ILI9341_check_date	24	static
+ILI9341_LCD_input_data.c:321:6:ILI9341_check_month	24	static
+ILI9341_LCD_input_data.c:336:6:ILI9341_check_year	24	static
+ILI9341_LCD_input_data.c:345:6:ILI9341_LCD_input_data_time	16	static
+ILI9341_LCD_input_data.c:359:6:ILI9341_LCD_input_data_temperature_humidity	24	static
+ILI9341_LCD_input_data.c:385:6:ILI9341_LCD_input_data_air_quality	32	static
+ILI9341_LCD_input_data.c:481:6:ILI9341_LCD_input_data_update	16	static

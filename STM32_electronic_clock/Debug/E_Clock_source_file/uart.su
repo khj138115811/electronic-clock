@@ -1,0 +1,6 @@
+uart.c:6:6:uart_2_transmit	16	static
+uart.c:12:9:uart_2_receive	16	static
+uart.c:20:6:uart_3_transmit	16	static
+uart.c:26:9:uart_3_receive	16	static
+uart.c:34:1:__io_putchar	16	static
+uart.c:40:1:__io_getchar	16	static
